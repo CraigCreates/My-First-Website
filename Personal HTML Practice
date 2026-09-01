@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>First Personal HTML Test</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" >
+  <link href="style.css" rel="stylesheet">
+</head>
+<body>
+  <h1>Welcome to my first personal test of what i learned with HTML</h1>
+  <p>Im using this to see what i can produce on my own without the help of things on the side of the screen.</p>
+  <embed src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3ZzeXl0cWlkaXExMjhkZmw0eGVrNTlzMHUyZWRwMWMwNmtiNDU1MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eoVusT7Pi9ODe/giphy.gif">
+  <br>
+  <br>
+  <br>
+  <h1>I have been learning how to code off and on for a few months, but i was struggling with being consistent.</h1>
+  <p>I have learned that some times you have to find a motivator to get you up and moving and once you find your why its a little bit easier</p>
+  <br>
+  <br>
+  <h1>Motivators</h1>
+  <ul>
+    <li>Rachel</li>
+    <li>Kids</li>
+    <li>Purpose</li>
+    </ul>
+    <br>
+    <h2>Rachel</h2>
+    <p>Rachel is the love of my life. I want to make her life the easiest it can possibly be, and the happiest it can possibly be.</p>
+    <embed src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NmF1NGUyazR6N3pzcTY4dnh4N2x2Y3h6NTM2YzhkdmdsZzE4YzBjbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7DRPFO0jRlxHTY2PIG/giphy.gif">
+    <p>Its no secret that coding can unlock a multitude of chances to make great money, and i know she works two jobs, and is very stressed and tired especially when she has to go to both in the same day.</p>
+    <p>Since I was a child i had always wanted to be a provider and protector of my family, so seeing her work so hard and we still are not where we want to be kills my heart.</p>
+    <p>The choice i made was not only because of the stress she has, but I want us to have fun while we are still young too. I want to be able to travel the world, take cruises, and take her on shopping trips where she doesn't have to worry about a price.</p>
+    <p>But biggest of all we both made an agreement to each other and ourselves that we would not bring a child into this world without first being married, and also having the freedom and resources for our child to not have to grow up poor. I made a promise with myself when i was 13 that I would never make my child go through the things i went through growing up poor.</p>
+    <br>
+    <h2>Kids</h2>
+    <p>Kids are probably my biggest motivator for coding. I want to make enough money and still take care of my kids.</p>
+    <embed src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnp2djJyZXNzMzg0ZDE0ZmpqMnVubTZjdGVhcDc3cWgxZjhrZGgzMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5h2Kg1x9BGb2VorsFf/giphy.gif">
+    <p>I never wanted to lack in both for instance. I know some children have present fathers, but they are poor and they are living in poverty or close to it. On the other hand some children have all the money in the world and lack a father to be there for them. Coding gives me the chance to do both. If i can land a career in web developlment or full stack development, I would be able to work from home being a present father, and make enough money for the lifestyle I want to live.</p>
+    <p>The average pay for entry level web developers in MS is $41k–$65k, with top earners making $90k–$125k+.</p>
+    <p>The average pay for entry level full stack developers in MS is $55k–$75k, with top earners making $100k–$130k+.</p>
+    <p> That doesnt even count the fact that i can get hired for higer paying state while staying in MS and working online. This would allow me to live in MS (the lowest cost of living) but earn the pay rate of Cali(one of if not the highest cost of living states.) of course this would be once im much further down the road but its an important thing to remember.</p>
+    <a href="https://www.salary.com/research/salary/recruiting/web-developer-salary/ms" target="_blank">Web Dev Sal</a>
+    <br>
+    <a href="https://www1.salary.com/job/full-stack-js-developer-salary/ms" target="_blank">Full Stack Sal</a>
+    <br>
+    <h2>Purpose</h2>
+    <p>Growing up i was very depressed and to be quite frank. I had planned on killing myself before I turned 21. I felt like there was no point to life, that i was born a failure, from a failure, and that nothing i ever did would ever work for me. I attempted to take my own life multiple times failing every time, from not festering up the courage to not cutting deep enough, to throwing up what i tied to poision myself with. When my mother passed I tried to drink her big bottle of Barnetts vodka and give myself alcohol posioning, but instead it just made me feel terrible the next day and throw up too much for my comfort. One thing it also did was a decison that would change my life for the better, an act i feel was a gift from God. I was uber confident now that i had lost soo much weight, and had filled my body with liquid confidence that I created a dating profile, just to see if I was the same undersiable guy I was before. This eventually led me to metting my soulmate Rachel. She doesn't know it but she saved my life.</p>
+    <p>I say all of that to say for the first time in my 21 years of living I think i found my purpose. I have always grown up a gamer. I love all games from all consoles and genres, I can play it all. I also loved writing and creating. Ive falling in love with the idea of making my own games and websites. I truthfully feel like I have so many ideas for games and apps that can become big hits. I think i understand the market being a gamer myself, andi i understand what people want and dont want. I would share my game ideas with people and my eyes would sparkle. I think this is my passion and is what my purpose in the world is.</p>
+    <embed src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU1N3A1MWEwcDQzdjR1c21sN2wxZXQzeHRkc2NzOGVuMDhxMWN0OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oMgnLF1GnQfQrw79ZE/giphy.gif">
+    <br> 
+
+
+  <script src="script.js"></script>
+</body>
+</html>
